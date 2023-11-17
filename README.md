@@ -25,4 +25,5 @@ Notas:
 Asegúrate de tener la biblioteca Pytube instalada para que el script funcione correctamente. Puedes instalarla usando pip install pytube.
 Personaliza el código según tus necesidades y reemplaza la URL de GitHub con la tuya.
 GitHub Repository:
-[Suarezsh/DescargadorYouTube](https://github.com/Suarezsh/YoyTube-mp3-mp4/)https://github.com/Suarezsh/YoyTube-mp3-mp4/
+[Suarezsh/DescargadorYouTube]
+(https://github.com/Suarezsh/YoyTube-mp3-mp4/)
